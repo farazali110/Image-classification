@@ -51,10 +51,8 @@ When an image containing any of these celebrities is passed, the system correctl
 face-recognition/
 ├── dataset/
 │   └── [celebrity images]
-├── knn_model.pkl
-├── label_encoder.pkl
-├── face_recognition.ipynb
-├── visualize_embeddings.py
+├── Video of code 
+├── Image classification.ipynb
 └── README.md
 ```
 
